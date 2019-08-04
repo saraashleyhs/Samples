@@ -24,7 +24,7 @@ namespace Checkers_Sample
 
         public void Start()
         {
-            //What is needed to start a game?
+            //What is needed to start a game? Place the line of code below.
 
             while (!CheckForWin())
             {
